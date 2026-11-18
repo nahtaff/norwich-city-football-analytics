@@ -1,6 +1,6 @@
 # Norwich City — Football Analytics & Recruitment Analysis
 
-![Norwich City Football Analytics](images/carrow_road.png)
+![Norwich City Football Analytics](images/carrow_road.jpg)
 
 ## Project Overview
 
