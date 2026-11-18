@@ -66,7 +66,7 @@ The analysis is organized into six sections:
 ![Goals vs Expected Goals](images/goals_vs_xg_norwich.png)
 
 ### 2. Player Performance Comparison
-![Player Performance Comparison](images/player_goal_contri_norwichpng)
+![Player Performance Comparison](images/player_goal_contri_norwich.png)
 
 ### 3. Current Ability vs Potential Ability
 ![Current Ability vs Potential Ability](images/ca_vs_pa_norwich.png)
