@@ -59,6 +59,22 @@ The analysis is organized into six sections:
 - Young players such as Oscar Schwartau, Kellen Fisher, and Lucien Mahovo showed interesting development profiles.
 - Mohamed Touré emerged as a key attacking asset.
 
+
+## Visual Highlights
+
+### 1. Goals vs Expected Goals
+![Goals vs Expected Goals](images/goals_vs_xg_norwich.png)
+
+### 2. Player Performance Comparison
+![Player Performance Comparison](images/player_goal_contri_norwichpng)
+
+### 3. Current Ability vs Potential Ability
+![Current Ability vs Potential Ability](images/ca_vs_pa_norwich.png)
+
+### 4. Recruitment Priority Analysis
+![Recruitment Priority Analysis](images/priority_chart_norwich.png)
+
+
 ## Methodology
 
 The project uses several analytical approaches:
