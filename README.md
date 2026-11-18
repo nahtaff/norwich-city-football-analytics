@@ -1,5 +1,7 @@
 # Norwich City — Football Analytics & Recruitment Analysis
 
+![Norwich City Football Analytics](images/carrow_road.png)
+
 ## Project Overview
 
 This project explores football analytics through a Football Manager 2027 save, using Norwich City as a case study.
